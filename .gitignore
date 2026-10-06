@@ -1,0 +1,7 @@
+__pycache__/
+research/
+tools/
+dist/
+backups/
+installation.json
+clipping-installation.json
